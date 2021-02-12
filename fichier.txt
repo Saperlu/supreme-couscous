@@ -1,1 +1,2 @@
 Ceci est la première ligne du projet.
+Ceci est la deuxième ligne du projet.
