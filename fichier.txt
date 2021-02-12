@@ -1,3 +1,10 @@
-Ceci est la première ligne du projet.
-J'aime l'aligot.
-Ceci est la deuxième ligne du projet.
+Il était une fois, *.
+Elle était très * et l'on disait
+qu'elle *.
+Cependant, * 
+était *.
+Cette situation *  les gens comme vous vous en doutez.
+Malheureusement, elle mouru à cause de *.
+
+
+                FIN
